@@ -42,7 +42,6 @@
     <input type="integer" class="form-control" name="phonenum" id="exampleInputphonenum1" placeholder="Phone number"><br>
   </div>
 
-
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
