@@ -26,9 +26,10 @@ if($d){
  if($result){
  	echo '<h1>saved.....!</h1>';
  }else{
- 	echo '<h1>something went wrong....Please try again </h1>';
+ 	echo '<h1>something went wrong....Please try again ???</h1>';
 	
- }   
+	
+ }    
 }
 
 
