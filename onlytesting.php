@@ -6,6 +6,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>
+
 <div style="margin: auto;width: 60%;">
 	<div class="alert alert-success alert-dismissible" id="success" style="display:none;">
 	  <a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>

@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-​
 <h2>Text input fields</h2>
 ​
 
