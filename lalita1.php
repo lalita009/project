@@ -48,6 +48,8 @@ function show(){
   return $this->color;
   
   }
+  
+  
 }
 $obj=new Player();
 $obj->set_name("lalita","red");
